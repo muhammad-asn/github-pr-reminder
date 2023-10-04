@@ -54,6 +54,10 @@ Before you can use this script, you'll need the following:
 
 7. Check your Telegram chat to see the message from the bot.
 
+
+## Screenshot
+![telegram](assets/telegram_ss.png)
+
 ## Contributing
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request.

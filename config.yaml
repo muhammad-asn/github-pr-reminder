@@ -1,5 +1,4 @@
-kind: GithubPullRequestsReminder
 repos:
-    - muhammad-asn/efk-nginx
-    - muhammad-asn/terraform-provider-idcloudhost-s3
-days_range: 180 #default 7 days
+  - muhammad-asn/efk-nginx
+  - muhammad-asn/terraform-provider-idcloudhost-s3
+days_range: 7 #default 7 days
